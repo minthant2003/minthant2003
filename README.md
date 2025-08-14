@@ -1,16 +1,30 @@
 ![profile banner](/github%20banner%201st-2.png "profile banner")
 
-👋 Hi, I'm Min Thant Win.
+<div align="center">Hi, I'm Min Thant Win. 👋</div>
+<div align="center">I'm currently working as a software developer and I'm passionate about developing innovative software solutions.</div>
 
-🌱 I'm currently working as a software developer and I'm passionate about developing innovative software solutions.
+## 🌱 Tech stacks
+<img 
+  src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&lineCount=1&width=700&hideTitle=true&line1=react%2Creact%2C0000FF%3Btypescript%2CTypescript%2C0000FF%3Bspring%2Cspring%2C6DB33F%3Blaravel%2Claravel%2CFF2D20%3Bmysql%2Cmysql%2CF29111%3B" 
+  alt="Tech Stack" 
+/>
 
-#### 📫 How to reach me:
+## 📫 Reach me
 <a href="https://www.linkedin.com/in/min-thant-win-960437212/">
   <img 
     src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" 
     alt="LinkedIn" 
     height="24"
   >
+</a>
+
+<!-- statistics -->
+## :satellite: Statistics
+<a href="https://github.com/minthant2003/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=minthant2003" />
+</a>
+<a href="https://github.com/minthant2003/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minthant2003&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <!--
