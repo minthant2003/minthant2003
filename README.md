@@ -55,27 +55,11 @@
 </a>
 
 ## 📫 Reach me
-<a href="https://www.linkedin.com/in/min-thant-win-960437212/">
-  <img 
-    src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" 
-    alt="LinkedIn" 
-    height="30"
-  >
-</a>
-<a href="mailto:minnthantwinn@gmail.com">
-  <img 
-    src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" 
-    alt="Gmail" 
-    height="30"
-  >
-</a>
-<a href="https://wa.me/6593597920">
-  <img 
-    src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" 
-    alt="WhatsApp" 
-    height="30"
-  >
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/min-thant-win-960437212/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30"/></a>
+  <a href="mailto:minnthantwinn@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30"/></a>
+  <a href="https://wa.me/6593597920"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30"/></a>
+</p>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Let's+Connect!;Feel+free+to+reach+out!&font=Fira%20Code&width=380&height=50&color=000&vCenter=true&size=15)
 
