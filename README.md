@@ -1,4 +1,5 @@
 ![profile banner](/github%20banner%201st-2.png "profile banner")
+![Snake animation](https://raw.githubusercontent.com/minthant2003/minthant2003/output/github-contribution-grid-snake.svg)
 
 <div align="center">Hi, I'm Min Thant Win. 👋</div>
 <div align="center">I'm currently working as a software developer and I'm passionate about developing innovative software solutions.</div>
@@ -61,7 +62,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Let's+Connect!;Feel+free+to+reach+out!&font=Fira%20Code&width=380&height=50&color=000&vCenter=true&size=15)
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minthant2003&theme=default)
-![Snake animation](https://raw.githubusercontent.com/minthant2003/minthant2003/output/github-contribution-grid-snake.svg)
 
 <!--
 https://www.linkedin.com/in/min-thant-win-960437212/
