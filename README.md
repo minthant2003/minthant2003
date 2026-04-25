@@ -47,12 +47,9 @@
 
 <!-- statistics -->
 ## :satellite: Statistics
-<a href="https://github.com/minthant2003/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=minthant2003" />
-</a>
-<a href="https://github.com/minthant2003/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minthant2003&layout=compact&langs_count=8&card_width=320" />
-</a>
+![Streak](https://streak-stats.demolab.com?user=minthant2003)
+![Stats](https://github-readme-stats.vercel.app/api?username=minthant2003&show_icons=true)
+![Top](https://github-readme-stats.vercel.app/api/top-langs?username=minthant2003&layout=compact&langs_count=8&card_width=320)
 
 ## 📫 Reach me
 <p align="left">
@@ -62,6 +59,11 @@
 </p>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Let's+Connect!;Feel+free+to+reach+out!&font=Fira%20Code&width=380&height=50&color=000&vCenter=true&size=15)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minthant2003&theme=default)
+<!--
+![Snake](https://raw.githubusercontent.com/minthant2003/minthant2003/output/github-contribution-grid-snake.svg)
+-->
 
 <!--
 https://www.linkedin.com/in/min-thant-win-960437212/
